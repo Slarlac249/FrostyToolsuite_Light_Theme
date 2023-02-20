@@ -7,6 +7,7 @@ I take no credit for any of the files stored in this repository. I only edited t
 to create a suitable light theme for the frosty editor, mod manager and other ui elements.
 
 only the edited files are shared here, not the full source code.
+which consist of a bunch of .png and .xaml files as i only edited files related to the user interface theme.
 
 inspired by vs 2019's light theme.
 
