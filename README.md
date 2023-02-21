@@ -45,7 +45,7 @@ which consist of a bunch of .png and .xaml files as i only edited files relating
 
 the .xaml files are the code for the user interface elements which contains the hex letters and digits for the various colours. only the colours have been changed, nothing else.
 the .png files being used for toolbar and menu icons and other ui icons etc. these have not been resized only the colours have been changed. 
-(because they were white to begin with, they would not be suitable in their current form, so i simply inverted the colours on each one to make them visible on the light them)
+(because they were white to begin with, they would not be suitable in their current form, so i simply inverted the colours on each one to make them visible on the light theme)
 
 The theme is inspired by vs 2019's light theme. which consists mostly of very light greys and some blue strips and almost black text.
 
