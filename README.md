@@ -9,14 +9,16 @@ If there is no light theme available in a piece of software i either look for an
 The reason here for making a light theme for the frosty tool suite is because a few years back i asked if a light theme could be implemented as an option and instead
 of being accommodating or open to suggestions the creators and other members of the community on the discord server for this software suite were rude and dismissive and even resorted to trolling saying dumb things like "why would you want that?" and other silly reasons why it wouldn't ever be added and that no one wants a light theme. :(
 
-Which brings me to now...
+I've been thinking about taking a bash at this for a while, i wasn't sure it was possible after being laughed at for my "stupid sugguestion" but it turns out it was possible all along, which brings me to now. See what happens when you blow someone off thinking you know better? Someone always ends up solving the issue for themselves and maybe others. The joy of computing!
+
+Anyway, rant aside...we now move on to the good stuff...
 
 currently, my light theme is compatible with v1.0.6.1 release @ https://github.com/CadeEvs/FrostyToolsuite/releases
 as that is the latest official non alpha or beta release. i don't recommend building the wip branches as they tend to be buggy and can crash.
 next full release should be v1.0.6.2 as that is in alpha at the moment.
 
 I take no credit for any of the files stored in this repository. The included modified files are from the freely available open-source code (found at the above link)
-which i've used to create a suitable light theme for the for the following items;
+which i've used to convert the current dark theme into a suitable light theme for the following items;
 
 - frosty editor - game selector window, main window ui, options screen, menus, title bar etc.
 - mod manager - game selector window, main window ui, options screen, menus, title bar etc. 
@@ -29,7 +31,7 @@ the .xaml files are the code for the user interface elements which contains the 
 the .png files being used for toolbar and menu icons and other ui icons etc. these have not been resized only the colours have been changed. 
 (because they were white to begin with, they would not be suitable in their current form, so i simply inverted the colours on each one to make them visible on the light them)
 
-my theme is inspired by vs 2019's light theme. which consists of very light greys and some blue strips.
+The theme is inspired by vs 2019's light theme. which consists mostly of very light greys and some blue strips and almost black text.
 
 Instructions for making use of the new theme:
 
@@ -42,5 +44,8 @@ Instructions for making use of the new theme:
 7. make mods! :)
 
 Because there is no option for theme switching in the frosty tool suite (grumble) you will have to build two seperate copies of the frosty tool suite if you wish to use either themes. If you are like me and don't care for the dark them, you won't be that bothered about it.
+
+I hope you like it! but if you find anything you find difficult to see, please open an issue and i'll take a look, it's possible i've missed something but i'm pretty
+confident i've covered all the ui elements and text, making things as clear as possible. (in my eyes anyway)
 
 - Slarlac249
