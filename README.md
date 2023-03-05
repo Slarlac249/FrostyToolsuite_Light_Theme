@@ -10,7 +10,8 @@ I don't agree with it being better than looking at a bright colourful screen. If
 If there is no light theme available in a piece of software i either look for an alternative or use it for short periods as i can't work with that shit.
 
 The reason here for making a light theme for the frosty tool suite is because a few years back i asked if a light theme could be implemented as an option and instead
-of being accommodating or open to suggestions the creators and other members of the community on the discord server for this software suite were rude and dismissive and even resorted to trolling, saying dumb things like "why would you want that?" and other silly reasons why it wouldn't ever be added and that no one wants a light theme and that no one uses light themes anymore. :( Which is complete B-U-L-L-S-H-I-T.
+of being accommodating or open to suggestions the creators and other members of the community on the discord server for this software suite were rude and dismissive and even resorted to trolling, saying dumb things like "why would you want that?" and other silly reasons why it wouldn't ever be added and that no one wants a light theme and that no one uses light themes anymore. :( 
+Which is complete B-U-L-L-S-H-I-T.
 
 I've been thinking about taking a bash at this for a while, i wasn't sure it was possible after being laughed at for my "stupid sugguestion", really put me off trying. 
 Though, it turned out it was possible all along, which brings me to now. 
