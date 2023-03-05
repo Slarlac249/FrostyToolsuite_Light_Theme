@@ -3,31 +3,30 @@ Light Theme for the FrostyToolsuite
 
 why am i doing this? (TL;DR the essay if you just want to skip to the theme)
 
-simple really, i've never been a fan of dark themes, whether it's in photoshop, visual studio, office, windows or any other software. I just can't look at a black or very dark grey window for lengthy periods as it gives me a headache. I've always been comfortable using the default light theme in most software.
-If there is no light theme available in a piece of software i either look for an alternative or use it for short periods.
+simple really, i've never been a fan of dark themes, whether it's in photoshop, visual studio, office, windows or any other software. I just can't look at a black or very dark grey window for lengthy periods as it gives me a headache. I've always been comfortable using the default light theme in most software. Sure if you look at any screen for long enough you will get a headache. You know what you do? you take breaks. You don't think, why don't i made my screen darker so i can work longer!?
+
+I don't agree with it being better than looking at a bright colourful screen. If you screen is properly calibrated and setup to your liking, why suddnely make it more difficult to see things? just because of some dumb new "internet trend"!?
+
+If there is no light theme available in a piece of software i either look for an alternative or use it for short periods as i can't work with that shit.
 
 The reason here for making a light theme for the frosty tool suite is because a few years back i asked if a light theme could be implemented as an option and instead
-of being accommodating or open to suggestions the creators and other members of the community on the discord server for this software suite were rude and dismissive and even resorted to trolling saying dumb things like "why would you want that?" and other silly reasons why it wouldn't ever be added and that no one wants a light theme. :(
+of being accommodating or open to suggestions the creators and other members of the community on the discord server for this software suite were rude and dismissive and even resorted to trolling, saying dumb things like "why would you want that?" and other silly reasons why it wouldn't ever be added and that no one wants a light theme and that no one uses light themes anymore. :( Which is complete B-U-L-L-S-H-I-T.
 
-I've been thinking about taking a bash at this for a while, i wasn't sure it was possible after being laughed at for my "stupid sugguestion", but it turns out it was possible all along, which brings me to now. 
+I've been thinking about taking a bash at this for a while, i wasn't sure it was possible after being laughed at for my "stupid sugguestion", really put me off trying. 
+Though, it turned out it was possible all along, which brings me to now. 
 
-See what happens when you blow someone off thinking you know better? Just because some users on the internet have decided dark themes rule, doesn't make it set in stone forever. I guess these people have forgotten that Windows had default light themes from 1.0 through to 11.
+See what happens when you blow someone off thinking you know better? Just because some users on the internet have decided dark themes rule, doesn't make it set in stone forever. I guess these people have forgotten that Windows had default light themes from 1.0 through to 11. Oh but DaRk tHEmEs are the best! gtfo!
 
-I don't remember anyone calling those themes crap throughout their use. The only times i myself use a dark theme is on my phone to save battery power and to sometimes read at night. In the day i just find it counter productive as i have to close my curtains or blinds when the sun is streaming in or if it's just a bright day as even with a matte screen you get shadows on it when using a dark theme. 
+I don't remember anyone calling those themes crap throughout their use. The only times i myself use a dark theme is on my phone to save battery power and to sometimes read at night, though most of the time i just lower the brightness to read reddit in the dark. 
+I've tried to used dark themes in the day and just find it counter productive as i have to close my curtains or blinds whenever the sun comes out, as even with a matte screen you get shadows on it when using a dark theme and can't see shit. shadows over a dark screen is bad. 
 
 Some argue it's easy on the eyes but honestly i find it dull and depressing to look at. I like brightness and colour but to each his own i guess. 
 
-I remember I had no issue with MS-DOS being solid black screen with white text back in the late 80's to 90's, because for it's main uses it worked fine, it didn't need to be anything more than a readout of text. When moviing to windows I didn't suddenly pine for the DOS only experience, as it's always been included in all windows versions, tucked away, ready to use when needed. 
+I remember I had no issue with MS-DOS being solid black screen with white text back in the late 80's to 90's, because for it's main uses it worked fine, it didn't need to be anything more than a readout of text. When moviing to windows I didn't suddenly pine for the DOS only experience, as it's always been included in all windows versions, tucked away, ready to use when needed. GUI is clearly more productive than a text console today, back then it's all we had (till windows came along) 
 
-The only reason this obsession with "dark themes" or "dark mode" has come about in recent times is because ever since social media became the largest information / media sharing platform on computers and mobile devices we have also had "trends" which is when someone or a group of people start posting about something online via social media platforms that they think everyone else should follow / do or take part in as they believe it's amazing or come up with some cringe reasoning why we've gone on so long without said "awesome thing they only just discoverd" even though it's existed for 20+ years in the form of "high contrast themes" and thus a new "trend" is born and everyone starts following it.
+The only reason this obsession with "dark themes" or "dark mode" has come about in recent times is because ever since social media became the largest information / media sharing platform on computers and mobile devices, we have things that go "viral" & "trends / trending" which is when someone or a group of people start posting about something online via social media platforms that they think everyone else should follow / do or take part in as they believe it's amazing and usually rave on about why we've gone on so long without said "awesome thing they only just discovered" even though it's existed for 20+ years in the form of "high contrast themes" and thus a new "trend" is born and everyone starts following it. sheep meet dog.
 
-so now it seems everyone with a computer swears by "dark themes" or "dark mode" that it's the best "new" thing ever and wouldn't even dream of using any other themes and proceed to list all the reasons why they think it's so good.
-
-and thus it becomes the latest in the list of things online that are "trending". you know, the annoying crap you see on the youtube front page or your twitter feed or any other social media platform. READ, CONSUME, ASSIMILATE, OBEY HUMAN!
-
-See, now i've convinced you that "dark themes" are awesome right? guess you don't need to continue reading right? huh? oh? you're still here? good. Well, do read on...
-
-So, anyway, now that i've finished rambling and arguing my case...we now move on to the good stuff...the reason why you are here.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 currently, my light theme is compatible with v1.0.6.1 release @ https://github.com/CadeEvs/FrostyToolsuite/releases
 as that is the latest official non alpha or beta release. i don't recommend building the wip branches as they tend to be buggy and can crash.
